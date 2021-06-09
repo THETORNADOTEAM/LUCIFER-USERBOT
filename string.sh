@@ -27,4 +27,4 @@ echo """
                 © Lᴇɢᴇɴᴅᴀʀʏ_ᴀғ_ʟᴜᴄɪғᴇʀʙᴏᴛ™                       
                         @LUCIFER_SUPPORT_GROUP
 """
-python3 string_session.py
+python3 -m userbot
