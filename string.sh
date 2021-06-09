@@ -28,4 +28,4 @@ echo """
                         @LUCIFER_SUPPORT_GROUP
 """
 
-python3 string_session.py
+python string_session.py
