@@ -70,7 +70,7 @@ def load_module(shortname):
         mod.edit_or_reply = edit_or_reply
         mod.delete_mafia = delete_mafia
         mod.media_type = media_type
-        # support for mafiabot originals
+        # support for LUCIFERbot originals
         sys.modules["LUCIFERbot.utils"] = userbot.utils
         sys.modules["LUCIFERbot"] = userbot
         # support for paperplaneextended
