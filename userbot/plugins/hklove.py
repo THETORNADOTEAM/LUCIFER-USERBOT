@@ -1,8 +1,9 @@
 # PLUGIN MADE BY @H1M4N5HU0P FOR MAFIABOT
 # KEEP CREDITS ELSE GAY
+# NOW IN LUCIFERBOT
 
 import random, re
-from mafiabot.utils import admin_cmd
+from LUCIFERbot.utils import admin_cmd
 import asyncio
 from telethon import events	
 @borg.on(admin_cmd(pattern="hklove", outgoing=True))
