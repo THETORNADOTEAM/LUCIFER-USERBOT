@@ -5,13 +5,13 @@ from pathlib import Path
 from telethon import events
 from telethon import functions, types
 from telethon.tl.types import InputMessagesFilterDocument
-from mafiabot.utils import *
+from LUCIFERbot.utils import *
 from userbot import *
 from userbot import bot as mafiabot
 
 DELETE_TIMEOUT = 5
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Mafia User"
-mafia_logo = "./kaal0408/LUCIFERbot_logo.jpg"
+LUCIFER_logo = "./kaal0408/LUCIFERbot_logo.jpg"
 kaal0408 = LUCIFERbot.uid
 LUCIFER = f"[{DEFAULTUSER}](tg://user?id={kaal0408})"
 
@@ -71,7 +71,7 @@ async def install(event):
                             a = "__Installing...__"
                             b = 1
                         await event.edit(a)
-                    return await event.edit(f"✅ **Installed module** :- `{shortname}` \n✨ BY :- {mafia}\n\n{string}\n\n        ⚡ **[LEGENDARY AF LUCIFERBOT](t.me/LUCIFER_SUPPORT_GROUP)** ⚡", link_preview=False)
+                    return await event.edit(f"✅ **Installed module** :- `{shortname}` \n✨ BY :- {LUCIFER}\n\n{string}\n\n        ⚡ **[LEGENDARY AF LUCIFERBOT](t.me/LUCIFER_SUPPORT_GROUP)** ⚡", link_preview=False)
                 return await event.edit(f"Installed module `{os.path.basename(downloaded_file_name)}`")
             else:
                 os.remove(downloaded_file_name)
@@ -90,7 +90,7 @@ async def uninstall(kaal0408):
     try:
         remove_plugin(shortname)
         os.remove(dir_path)
-        await h1m4n5hu0p.edit(f"Uninstalled `{shortname}` successfully")
+        await kaal0408.edit(f"Uninstalled `{shortname}` successfully")
     except OSError as e:
         await kaal0408.edit("Error: %s : %s" % (dir_path, e.strerror))
 
