@@ -3,9 +3,9 @@ import requests
 import PIL.ImageOps
 from PIL import Image, ImageDraw, ImageFont
 
-from mafiabot import CmdHelp
+from LUCIFERbot import CmdHelp
 from userbot.Config import Config
-from mafiabot.utils import admin_cmd, sudo_cmd, edit_or_reply
+from LUCIFERbot.utils import admin_cmd, sudo_cmd, edit_or_reply
 
 TEMP_DIR = os.environ.get("TEMP_DIR", "./temp/")
    
@@ -56,15 +56,15 @@ async def remove_background(event):
         try:
             await event.client.download_media(reply_message, file_name)
         except Exception as e:
-            await edit_or_reply(mafiaevent, f"`{str(e)}`")
+            await edit_or_reply(LUCIFERevent, f"`{str(e)}`")
             return
         else:
-            await mafiaevent.edit("`Removing Background of this media`")
+            await LUCIFERevent.edit("`Removing Background of this media`")
             file_name = convert_toimage(file_name)
             response = ReTrieveFile(file_name)
             os.remove(file_name)
     elif input_str:
-        mafiaevent = await edit_or_reply(event, "`Removing Background of this media`")
+        LUCIFERevent = await edit_or_reply(event, "`Removing Background of this media`")
         response = ReTrieveURL(input_str)
     else:
         await edit_or_reply(
@@ -73,9 +73,9 @@ async def remove_background(event):
         )
         return
     contentType = response.headers.get("content-type")
-    remove_bg_image = "MafiaBot.png"
+    remove_bg_image = "LUCIFERBot.png"
     if "image" in contentType:
-        with open("MafiaBot.png", "wb") as removed_bg_file:
+        with open("LUCIFERBot.png", "wb") as removed_bg_file:
             removed_bg_file.write(response.content)
     else:
         await edit_or_reply(mafiaevent, f"`{response.content.decode('UTF-8')}`")
