@@ -1,11 +1,11 @@
 <h3 align="center">𝚃𝙷𝙴 𝙲𝙻𝙾𝙽𝙴 𝙾𝙵</h3>
-<h2 align="center"> <a href="https://github.com/kaal0408/LUCIFER-USERBOT">🔥 𝚃𝙷𝙴 LUCIFER𝙱𝙾𝚃 🔥</a></h2>
+<h2 align="center"> <a href="https://github.com/kaal0408/LUCIFER-USERBOT">🔥 𝚃𝙷𝙴 LUCIFERBOT 🔥</a></h2>
 
 
 <h1 align="center">⚡ LUCIFER 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</h1>
 
 
-[![MAFIA LOGO](https://telegra.ph/file/b61486075c6ef73dd0d12.jpg)](https://t.me/MafiaBot_Support)
+[![LUCIFER LOGO](https://telegra.ph/file/5d51b45726a0d6031089b.jpg)](https://t.me/LUCIFER_SUPPORT_GROUP)
 
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
@@ -44,7 +44,7 @@
 
 ```
 Get help regarding setting up 
-your MAFIABOT in our official 
+your LUCIFERBOT in our official 
 support Group and get updates
 notifications in Update Channel.
 ```
@@ -59,8 +59,8 @@ notifications in Update Channel.
   <summary> <h2>Generate String Session</h2> </summary>
 
 - Termux
-    - Clone `git clone https://github.com/H1M4N5HU0P/MAFIA-BOT.git`
-    - Then Do  `cd MAFIA-BOT`
+    - Clone `git clone https://github.com/kaal0408/LUCIFER-BOT.git`
+    - Then Do  `cd LUCIFER-BOT`
     - Run String Generator By
            `bash string.sh`
     - Then Fill The Required Details.
@@ -108,9 +108,9 @@ notifications in Update Channel.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 kaal0408
 
-Poject [𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
+Poject [LUCIFERBOT](https://github.com/kaal0408/LUCIFER-USERBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
