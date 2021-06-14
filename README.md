@@ -30,13 +30,8 @@
 <details>
   <summary> <h4>Credits 🏅</h4> </summary>
 
-• [JaaduBot](https://github.com/Amberyt/JaaduBot)
+• [kaalBot](https://github.com/kaal0408/KAAL-UserBot)
 
-• [Uniborg](https://github.com/spechide/uniborg)
-
-• [Hêllẞø†](https://github.com/thevaders/vader)
-
-• [Kittu](https://t.me/A_viyu)
 
 </details>
 <details>
