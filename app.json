@@ -1,7 +1,7 @@
 {
  "name": "LUCIFER 🇮🇳 UserBot",
  "description": "An advanced Telethon Userbot, from @LionXSupport",
- "logo": "https://user-images.githubusercontent.com/78837537/120152150-c37ad280-c20a-11eb-92ce-64b9124b05ed.jpg",
+ "logo": "https://telegra.ph/file/73373552e9217e010e853.jpg",
  "keywords": [
   "telegram",
   "userbot",
@@ -62,7 +62,7 @@
    "required": false
   },  
   "GIT_REPO_NAME": {
-   "description": "Your repo name Example: MdNoor786/Lion, but GITHUB_ACCESS_TOKEN must be setup first.",
+   "description": "Your repo name Example: kaal0408/LUCIFER-USERBOT, but GITHUB_ACCESS_TOKEN must be setup first.",
    "value": "",
    "required": false
   },
