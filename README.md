@@ -44,7 +44,7 @@ support Group and get updates
 notifications in Update Channel.
 ```
 
-<a href="https://t.me/MafiaBot_Support"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/LUCIFER_SUPPORT_GROUP"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 </details>
 
@@ -62,7 +62,7 @@ notifications in Update Channel.
     - API ID, API HASH, PHONE NUMBER (WITH COUNTRY CODE)
  
 - Repl Run
-    - Click [Here](https://replit.com/@H1M4N5HU0P/MAFIABOT#main.py) to open Repl run.
+    - Click [Here](https://replit.com/@simpleboy786/Lucifer?v=1#main.py) to open Repl run.
     - Click On Green Play Button.
     - Wait for a while then fill the details.
     - String will be saved in your Saved Message.
