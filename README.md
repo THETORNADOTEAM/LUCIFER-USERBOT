@@ -5,7 +5,7 @@
 <h1 align="center">⚡ LUCIFER 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</h1>
 
 
-[![LUCIFER LOGO](https://telegra.ph/file/5d51b45726a0d6031089b.jpg)](https://t.me/LUCIFER_SUPPORT_GROUP)
+[![LUCIFER LOGO](https://telegra.ph/file/73373552e9217e010e853.jpg)](https://t.me/LUCIFER_SUPPORT_GROUP)
 
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
