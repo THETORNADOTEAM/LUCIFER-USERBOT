@@ -1,0 +1,9 @@
+build: 
+
+  docker:
+
+      Lucifer: Dockerfile
+
+run:
+
+   worker: python3 shivansh.py
