@@ -1,7 +1,7 @@
 {
-  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @kaal0408 special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @LUCIFER_SUPPORT_GROUP",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "name": "тнε ℓυcιғεявσт",
+  "description": "The LUCIFERBot made by @kaal0408 special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @LUCIFER_SUPPORT_GROUP",
+  "logo": "https://telegra.ph/file/73373552e9217e010e853.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -34,7 +34,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/73373552e9217e010e853.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -44,7 +44,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/73373552e9217e010e853.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
