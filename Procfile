@@ -1,1 +1,1 @@
-userbot: python3 shivansh.py
+worker: python3 shivansh.py
